@@ -217,4 +217,4 @@ Reason is available as a free download, offering the complete version with all f
 Start your musical journey today with Reason — the ultimate music production software!
 
 ---
-**Last updated:** 2026-11-06 21:14:05 UTC
+**Last updated:** 2026-11-07 01:33:29 UTC
